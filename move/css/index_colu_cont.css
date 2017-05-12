@@ -7,7 +7,7 @@ form{
 	border: none;
 }
 form input{
-	width:calc(100% - 1rem);
+	width:calc(100% - 0.1rem);
 	height:calc(100% - 0.1rem);
 	border: 0.05rem solid #d2d2d2;
 	background: #fbfafa;
@@ -45,7 +45,7 @@ ul{
 
 ul li{
 	float: left;
-	width: calc(20% - 0.2rem);
+	width: calc(20% - 0.1rem);
 	height: 1.95rem;
 	font-size: 0.6rem;
 	text-align: center;
@@ -65,7 +65,7 @@ ul li a{
 	color: #fff;
 }
 ul li:nth-child(5n),ul li:last-child{
-	border-right: 0.025rem solid #bfbfbf;
+	border-right: 0.05rem solid #bfbfbf;
 }
 ul li:nth-child(6),ul li:nth-child(7),ul li:nth-child(8),ul li:nth-child(9),ul li:nth-child(10){
 	margin-top: 0.45rem
