@@ -109,13 +109,30 @@
 	margin-top: 0.55rem
 }
 .cont_cont{
-	display: flex;
+	overflow: hidden;
+	width: 17.5rem;
+	height: 3.55rem;
 }
 .cont_cont div{
-	margin-right: 0.25rem;
-	flex:1;
-	overflow: hidden;
-
+	float: left;
+}
+.cont_cont div.d1{
+	width: 5.5rem;
+	height: 3.55rem;
+}
+.cont_cont div.d1 img{
+	width: 100%;
+	height: 100%;
+	margin: 0;
+	padding: 0;
+}
+.cont_cont div.d2{
+	width: 12rem;
+	height: 100%;
+}
+.cont_cont div.d2 a{
+	font-size: 0.6rem;
+	margin-left: 0.25rem
 }
 .cont_cont .d1 img{
 	width: 5.5rem;
