@@ -7,7 +7,7 @@ form{
 	border: none;
 }
 form input{
-	width:calc(100% - 0.1rem);
+	width:calc(100% - 1rem);
 	height:calc(100% - 0.1rem);
 	border: 0.05rem solid #d2d2d2;
 	background: #fbfafa;
@@ -16,6 +16,7 @@ form input{
 	top: 0;
 	padding-left: 1em;
 	font-size: 0.6rem;
+	outline: none;
 }
 form a{
 	width: 1rem;
