@@ -49,7 +49,7 @@ ul{
 
 ul li{
 	float: left;
-	width: calc(20% - 0.1rem);
+	width: 3.375rem;
 	height: 1.95rem;
 	font-size: 0.6rem;
 	text-align: center;
@@ -58,7 +58,7 @@ ul li{
 	border-right: none;
 }
 ul li a{
-	width: 100%;
+	width: 3.375rem;
 	height: 100%;
 	display: block;
 	color: #000;
