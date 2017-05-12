@@ -5,6 +5,8 @@ form{
 	margin-left: 0.25rem;
 	margin-top: 0.75rem;
 	border: none;
+	outline: none;
+	-webkit-tap-highlight-color:rgba(255,0,0,0);
 }
 form input{
 	width:calc(100% - 1rem);
@@ -17,6 +19,7 @@ form input{
 	padding-left: 1em;
 	font-size: 0.6rem;
 	outline: none;
+	-webkit-tap-highlight-color:rgba(255,0,0,0);
 }
 form a{
 	width: 1rem;
