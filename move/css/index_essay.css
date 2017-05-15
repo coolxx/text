@@ -55,11 +55,11 @@ form img{
 	color: #bebdbd;
 }
 .cont1 .cont1_d2 img{
-	float: left;
-	margin-left: 6.125rem;
-	width: 1.15rem
+	float: right;
+	width: 1.15rem;
 }
 .cont1 .cont1_d2 a{
+	line-height:1.15rem;
 	float: right;
 	font-size: 0.6rem;
 	color: #e62929;
@@ -81,19 +81,22 @@ form img{
 	width: 3.6rem
 }
 .cont1_d3 p{
+	width: 10.8rem;
 	float: left;
-	width: 9.5rem;
 	font-size: 0.65rem;
 	font-weight: bold;
-	margin-left: 0.5rem;
 	color: #e62929;
+	text-align: center;
 }
 .cont1 .cont1_show{
-	padding: 0.75rem 0.25rem;
-	font-size: 0.55rem;
+	padding:0  0.25rem 0.75rem;
 	color: #333333;
 	text-align: left;
+}
+.cont1 .cont1_show p{
 	text-indent: 2em;
+	line-height: 1.0rem;
+	font-size: 0.6rem;
 }
 .cont1 .next{
 	width: 17.5rem;
@@ -135,17 +138,17 @@ form img{
 }
 .essay_show{
 	width: 17.5rem;
-	height: 4.65rem;
+	height: 6.6rem;
 	border-top: 0.05rem solid #d2d2d2;
 	margin-left: 0.25rem;
 	overflow: hidden;
 }
 .essay_show img{
-	width: 6.8rem;
-	height: 3.75rem;
+	width: 7.375rem;
+	height: 4.775rem;
 	float: left;
 	margin-left: 0.25rem;
-	margin-top: 0.475rem;
+	margin-top: 0.875rem
 }
 .essay_p{
 	width: 9.375rem;
@@ -158,12 +161,12 @@ form img{
 	color: #000;
 	font-size: 0.65rem;
 	line-height: 1.225rem;
-	margin-top: 0.5rem
+	margin-top: 0.875rem;
 }
 .essay_p p{
 	font-size: 0.375rem;
 	color: #bebdbd;
-	margin-top: 0.75rem
+	margin-top: 1.6rem
 }
 .last{
 	padding: 0 0.25rem;

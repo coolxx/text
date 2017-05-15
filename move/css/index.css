@@ -1,3 +1,6 @@
+*{
+	margin: 0;padding: 0;
+}
 .swiper-container{
 	height: 6.775rem;
 }
@@ -61,15 +64,17 @@
 	color: #e62929;
 	font-size: 0.6rem;
 	margin-left: 0.25rem;
-	margin-top: 0.125rem
+	line-height:1.375rem;
 }
 .time p{
+	height: 1.375rem;
+	line-height: 1.375rem;
 	float: left;
 	font-size: 0.6rem;
-	margin-top: 0.05rem;
-	margin-top: 0.15rem
 }
 .time a{
+	height: 0.775rem;
+	line-height: 0.775rem;
 	display: block;
 	overflow: hidden;
 	padding: 0.25rem 0.525rem;
@@ -90,23 +95,27 @@
 }
 .cont_title{
 	overflow: hidden;
+	height: 1.3rem;
 }
-.cont h1{
+.cont_title h1{
 	font-size: 0.725rem;
 	float: left;
+	height: 1.3rem;
 }
 .cont_h{
 	background: #e62929;
 	color: #fff;
 	border-radius: 0.075rem;
 	padding: 0.15rem 0.325rem;
-	margin-left: 0.1rem;
 	margin-left: 0.25rem;
+	height: 1rem !important;
 }
-.cont img{
+.cont_title img{
 	width: 1.275rem;
-	margin-left: 0.25rem;
-	margin-top: 0.55rem
+	display: block;
+	margin-left: 0.15rem;
+	float: left;
+	margin-top:0.6rem
 }
 .cont_cont{
 	overflow: hidden;
@@ -133,10 +142,17 @@
 	height: 100%;
 }
 .cont_cont div.d2 a{
-	font-size: 0.6rem;
-	margin-left: 0.15rem
-}.cont_cont div.d2 a:nth-child(even){
-	margin-left: 0.25rem
+	font-size: 0.55rem;
+	margin-left: 0.25rem;
+	color: #000;
+	float: left;
+}
+.cont_cont div.d2 a:nth-child(even){
+	margin-left: 0.25rem;
+	float: right;
+}
+.cont_cont div.d2 a:nth-child(3),.cont_cont div.d2 a:nth-child(4),.cont_cont div.d2 a:nth-child(5),.cont_cont div.d2 a:nth-child(6){
+	margin-top: 0.6rem;
 }
 .cont_cont .d1 img{
 	width: 5.5rem;
@@ -144,9 +160,7 @@
 	margin-top: 0.25rem;
 	padding: 0;
 }
-.cont_cont a{color: #000;font-size: 0.6rem}
-.cont_cont .d2,.cont_cont .d3 {
-	line-height: 1.25rem;
+.cont_cont .d2{
 	font-size: 0.6rem;
 	color: #000;
 }
@@ -183,7 +197,7 @@
 	overflow: hidden;
 	margin-bottom: 0.75rem
 }
-.cont1 h1{
+.cont1_title h1{
 	font-size: 0.725rem;
 	float: left;
 }
@@ -195,13 +209,14 @@
 	margin-left: 0.1rem;
 	margin-left: 0.25rem;
 }
-.cont1 img{
+.cont1_title img{
 	width: 1.275rem;
 	margin-left: 0.25rem;
 	margin-top: 0.55rem
 }
 .cont1 .btnbox{
 	display: flex;
+	margin-top: 0.8rem;
 }
 .on{
 	border-bottom: 2px solid #546fb4;color: #eaf129;
@@ -269,6 +284,7 @@
 }
 .cont2_show{
 	display: flex;
+	margin-top: 0.6rem;
 }
 .cont2_show img{
 	width: 8.625rem;
@@ -399,6 +415,7 @@
 }
 .cont4_cont{
 	display: flex;
+	margin-top:0.75rem;
 }
 .cont4_cont li{
 	flex:1;
@@ -518,6 +535,7 @@
 	color: #fff !important;
 }
 .cont7_cont{
+	margin-top: 0.75rem;
 	height: 3.75rem;
 	overflow: hidden;
 	text-align: center;
