@@ -11,6 +11,7 @@
 .swiper-slide a{
 	height: 100%;
 	display: block;
+	line-heigh:normal;
 }
 .nav{
 	display: flex;
@@ -37,6 +38,7 @@
 }
 .nav li:nth-child(2){
 	background: #556fb5;
+	line-heigh:normal;
 }
 .nav li:nth-child(3){
 	background: #009944;
@@ -421,6 +423,7 @@
 }
 .cont4_cont li{
 	flex:1;
+	text-align: center;
 }
 .cont4_cont li a{
 	width: 100%;
