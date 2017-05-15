@@ -147,9 +147,10 @@
 	line-height: 1.25rem
 }
 .cont_cont div.d2 a{
-	font-size: 0.6rem;
+	font-size: 0.7rem;
 	margin-left: 0.25rem;
 	color: #333;
+	float: left;
 }
 
 .cont_cont .d1 img{
