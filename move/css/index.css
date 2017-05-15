@@ -141,24 +141,22 @@
 	padding: 0;
 }
 .cont_cont div.d2{
-	padding-top: 0.25rem;
 	float: right;
 	width: 12.0rem;
-	height: calc(100% - 0.25rem);
+	height: 100% ;
 }
 .cont_cont div.d2 a{
 	font-size: 0.6rem;
 	margin-left: 0.35rem;
 	color: #000;
 	float: left;
+	margin-top: 0.45rem
 }
 .cont_cont div.d2 a:nth-child(even){
 	margin-left: 0.25rem;
 	float: right;
 }
-.cont_cont div.d2 a:nth-child(3),.cont_cont div.d2 a:nth-child(4),.cont_cont div.d2 a:nth-child(5),.cont_cont div.d2 a:nth-child(6){
-	margin-top: 0.6rem;
-}
+
 .cont_cont .d1 img{
 	width: 5.5rem;
 	height: 3.5rem;
@@ -235,7 +233,7 @@
 .cont1 .btnbox a{
 	height: 1.25rem;
 	display: block;
-	font-size: 0.9rem;
+	font-size: 0.8rem;
 	text-align: center;
 	line-height: 1.3rem;
 	background: #546fb4;
