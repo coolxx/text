@@ -170,13 +170,18 @@ form img{
 	overflow: hidden;
 	margin-bottom: 0.875rem
 }
-.last img:nth-child(1){
+
+.last a:nth-child(1){
 	float: left;
 	width: 8.625rem;
 	height: 4.55rem
 }
-.last img:nth-child(2){
+.last a:nth-child(2){
 	float: right;
 	width: 8.625rem;
 	height: 4.55rem
+}
+.last img{
+	width: 8.625rem;
+	height: 4.55rem;
 }
