@@ -147,8 +147,8 @@
 }
 .cont_cont div.d2 a{
 	font-size: 0.6rem;
-	margin-left: 0.35rem;
-	color: #000;
+	margin-left: 0.25rem;
+	color: #333;
 	float: left;
 	margin-top: 0.45rem
 }
@@ -165,7 +165,7 @@
 }
 .cont_cont .d2{
 	font-size: 0.6rem;
-	color: #000;
+	color: #333;
 }
 .cont_cont .d3{
 	margin-right: 0;
@@ -302,7 +302,7 @@
 	flex:1;
 	font-size: 0.65rem;
 	padding-top: 0.575rem;
-	color: #000;
+	color: #333;
 }
 .cont2 ul{
 	margin-top: 0.625rem
@@ -324,7 +324,7 @@
 }
 .cont2 li.xueke p{
 	font-size: 0.6rem;
-	color: #000;
+	color: #333;
 	float: left;
 	width: 100%;
 	margin-top: 0.125rem;
@@ -337,7 +337,7 @@
 	margin-left: 0.5rem;
 	float: left;
 	font-size:0.6rem;
-	color: #000;
+	color: #333;
 	line-height: 1.75rem;
 }
 
@@ -378,7 +378,7 @@
 }
 .cont3 li a{
 	font-size: 0.6rem;
-	color: #000;
+	color: #333;
 	margin-left: 1.25rem
 }
 .cont3 li a.fi{
@@ -494,7 +494,7 @@
 	width: 100%;
 	height: calc(100% - 0.25rem);
 	font-size: 0.5rem;
-	line-height: 0.5rem;
+	line-height: 0.6rem;
 	padding-top: 0.25rem
 }
 .cont6_cont a.a6 p span{
@@ -548,7 +548,7 @@
 .cont7_cont a{
 	border: 0.05rem solid #d2d2d2;
 	font-size: 0.7rem;
-	color: #000;
+	color: #333;
 	width: 5.75rem;
 	height: 1.55rem;
 	display: block;
