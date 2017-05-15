@@ -371,19 +371,16 @@
 }
 .cont3 li{
 	overflow: hidden;
+	display: flex;
 }
 .cont3 li a{
 	font-size: 0.7rem;
 	color: #333;
-	margin-left: 1.25rem
+	flex:1
 }
 .cont3 li a.fi{
-	margin-left:0.75rem;
 	font-weight: bold;
 	color: #ff8400;
-}
-.cont3 li a.un{
-	margin-left: 0.625rem
 }
 .cont4{
 	margin: 0.025rem 0;
