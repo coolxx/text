@@ -7,6 +7,7 @@ img{ vertical-align:top; }
 header{
 	height: 2.25rem;
 	background: #e62929;
+	overflow: hidden;
 }
 .head_a1{
 	width: 4.5rem;

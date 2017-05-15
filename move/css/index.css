@@ -1,5 +1,6 @@
 *{
 	margin: 0;padding: 0;
+	line-heigh:normal;
 }
 .swiper-container{
 	height: 6.775rem;
@@ -103,12 +104,13 @@
 	height: 1.3rem;
 }
 .cont_h{
+	height: 1.3rem;
+	line-height: 1.3rem;
 	background: #e62929;
 	color: #fff;
 	border-radius: 0.075rem;
-	padding: 0.15rem 0.325rem;
+	padding: 0 0.325rem;
 	margin-left: 0.25rem;
-	height: 1rem !important;
 }
 .cont_title img{
 	width: 1.275rem;
