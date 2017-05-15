@@ -370,7 +370,7 @@
 	margin-top: 0.75rem
 }
 .cont3 li{
-	overflow: hidden;
+	width: 17.5rem;
 	display: flex;
 }
 .cont3 li a{
