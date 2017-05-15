@@ -173,15 +173,15 @@
 }
 
 .cont .divbox2 li{
-	height: 1.8rem;
+	height: 2.2rem;
 	border-bottom: 0.05rem solid #c9c9c9;
 }
 .cont .divbox2 li a{
 	height: 100%;
 	display: block;
-	font-size:0.6rem;
+	font-size:0.7rem;
 	color: #333;
-	line-height: 1.8rem;
+	line-height: 2.2rem;
 }
 .cont .divbox2 li a span{
 	font-weight: bold;
@@ -244,15 +244,15 @@
 	display: none;
 }
 .cont1 .divbox li{
-	height: 1.8rem;
+	height: 2.2rem;
 	border-bottom: 0.05rem solid #c9c9c9;
 }
 .cont1 .divbox li a{
 	height: 100%;
 	display: block;
-	font-size:0.6rem;
+	font-size:0.7rem;
 	color: #333;
-	line-height: 1.8rem;
+	line-height: 2.2rem;
 }
 .cont1 .divbox li a span{
 	font-weight: bold;
@@ -301,9 +301,8 @@
 }
 .cont2_cont a{
 	flex:1;
-	font-size: 0.6rem;
+	font-size: 0.65rem;
 	padding-top: 0.575rem;
-	padding-left: 0.375rem;
 	color: #000;
 }
 .cont2 ul{
@@ -494,9 +493,10 @@
 }
 .cont6_cont a.a6 p{
 	width: 100%;
-	height: 100%;
+	height: calc(100% - 0.25rem);
 	font-size: 0.5rem;
-	line-height: 0.775rem;
+	line-height: 0.5rem;
+	padding-top: 0.25rem
 }
 .cont6_cont a.a6 p span{
 	font-size: 0.45rem;
@@ -554,4 +554,5 @@
 	height: 1.55rem;
 	display: block;
 	float: left;
+	line-height: 1.55rem
 }
