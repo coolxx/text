@@ -144,20 +144,12 @@
 	float: right;
 	width: 12.0rem;
 	height: 100% ;
+	line-height: 1.25rem
 }
 .cont_cont div.d2 a{
 	font-size: 0.6rem;
 	margin-left: 0.25rem;
 	color: #333;
-	float: left;
-	margin-top: 0.4rem
-}
-.cont_cont div.d2 a:nth-child(1),.cont_cont div.d2 a:nth-child(2){
-	margin-top: 0.1rem;
-}
-.cont_cont div.d2 a:nth-child(even){
-	margin-left: 0.25rem;
-	float: right;
 }
 
 .cont_cont .d1 img{
