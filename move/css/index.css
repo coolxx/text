@@ -101,7 +101,7 @@
 	height: 1.3rem;
 }
 .cont_title h1{
-	font-size: 0.725rem;
+	font-size: 0.8rem;
 	float: left;
 	height: 1.3rem;
 }
@@ -152,7 +152,9 @@
 	color: #333;
 	float: left;
 }
-
+.cont_cont div.d2 a:nth-child(even){
+	float: right;
+}
 .cont_cont .d1 img{
 	width: 5.5rem;
 	height: 3.5rem;
@@ -181,7 +183,7 @@
 .cont .divbox2 li a span{
 	font-weight: bold;
 	color: #c3c3c3;
-	margin: 0 0.5rem 0 0.5rem;
+	margin: 0 0.25rem 0 0.2rem;
 }
 
 
@@ -252,7 +254,7 @@
 .cont1 .divbox li a span{
 	font-weight: bold;
 	color: #c3c3c3;
-	margin:0 0.25rem 0 0.5rem;
+	margin:0 0.15rem 0 0.5rem;
 }
 
 .cont2{
@@ -296,7 +298,7 @@
 }
 .cont2_cont a{
 	flex:1;
-	font-size: 0.65rem;
+	font-size: 0.7rem;
 	padding-top: 0.575rem;
 	color: #333;
 }
@@ -319,7 +321,7 @@
 	margin-left: 0;
 }
 .cont2 li.xueke p{
-	font-size: 0.6rem;
+	font-size: 0.7rem;
 	color: #333;
 	float: left;
 	width: 100%;
@@ -337,9 +339,6 @@
 	line-height: 1.75rem;
 }
 
-.cont2 li.cont2_mo a{
-	margin-left: 0.725rem;
-}
 .cont3{
 	margin: 0.025rem 0;
 	padding: 0.875rem 0.25rem 0 0.25rem;
@@ -455,6 +454,7 @@
 }
 .cont6_cont{
 	overflow: hidden;
+	margin-top: 0.5rem
 }
 .cont6_cont a{
 	float: left;
