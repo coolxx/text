@@ -141,9 +141,10 @@
 	padding: 0;
 }
 .cont_cont div.d2{
+	padding-top: 0.25rem;
 	float: right;
 	width: 12.0rem;
-	height: 100%;
+	height: calc(100% - 0.25rem);
 }
 .cont_cont div.d2 a{
 	font-size: 0.6rem;
@@ -234,7 +235,7 @@
 .cont1 .btnbox a{
 	height: 1.25rem;
 	display: block;
-	font-size: 0.7rem;
+	font-size: 0.9rem;
 	text-align: center;
 	line-height: 1.3rem;
 	background: #546fb4;
