@@ -372,12 +372,12 @@
 	overflow: hidden;
 }
 .cont3 li a{
-	font-size: 0.6rem;
+	font-size: 0.7rem;
 	color: #333;
 	margin-left: 1.25rem
 }
 .cont3 li a.fi{
-	margin-left: 1.375rem;
+	margin-left:0.75rem;
 	font-weight: bold;
 	color: #ff8400;
 }
