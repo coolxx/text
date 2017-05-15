@@ -372,8 +372,11 @@
 .cont3 li{
 	width: 17.5rem;
 	display: flex;
+	margin-top: 0.5rem
 }
 .cont3 li a{
+	width: 4.375rem;
+	display: block;
 	font-size: 0.7rem;
 	color: #333;
 	flex:1
