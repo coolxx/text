@@ -65,7 +65,7 @@
 	height: 1.375rem;
 	float: left;
 	color: #e62929;
-	font-size: 0.6rem;
+	font-size: 0.7rem;
 	margin-left: 0.25rem;
 	line-height:1.375rem;
 }
@@ -73,7 +73,7 @@
 	height: 1.375rem;
 	line-height: 1.375rem;
 	float: left;
-	font-size: 0.6rem;
+	font-size: 0.7rem;
 }
 .time a{
 	height: 0.775rem;
@@ -87,7 +87,7 @@
 	font-size: 0.6rem;
 	border: none;
 	border-radius: 0.05rem;
-	margin-left: 1.0rem;
+	margin-left: 0.5rem;
 }
 .cont{
 	margin: 0.05rem 0;
@@ -146,7 +146,7 @@
 }
 .cont_cont div.d2 a{
 	font-size: 0.7rem;
-	margin-left: 0.25rem;
+	margin-left: 0.6rem;
 	color: #333;
 	float: left;
 }
@@ -181,7 +181,7 @@
 .cont .divbox2 li a span{
 	font-weight: bold;
 	color: #c3c3c3;
-	margin: 0 0.05rem 0 0.05rem;
+	margin: 0 0.25rem 0 0.05rem;
 }
 
 
