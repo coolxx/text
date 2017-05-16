@@ -146,12 +146,13 @@
 }
 .cont_cont div.d2 a{
 	font-size: 0.7rem;
-	margin-left: 0.6rem;
+	margin-left: 0.8rem;
 	color: #333;
 	float: left;
 }
 .cont_cont div.d2 a:nth-child(even){
 	float: right;
+	margin-left: 0;
 }
 .cont_cont .d1 img{
 	width: 5.5rem;
@@ -337,8 +338,7 @@
 }
 
 .cont3{
-	margin: 0.025rem 0;
-	padding: 0.875rem 0.25rem 0 0.25rem;
+	padding: 1.0rem 0.25rem 0 0.25rem;
 	overflow: hidden;
 }
 .cont3_title{
@@ -426,7 +426,7 @@
 }
 .cont6{
 	margin: 0.025rem 0;
-	padding: 0.875rem 0.25rem 0 0.25rem;
+	padding: 1.125rem 0.25rem 0 0.25rem;
 	overflow: hidden;
 }
 .cont6_title{
@@ -452,7 +452,7 @@
 }
 .cont6_cont{
 	overflow: hidden;
-	margin-top: 0.5rem
+	margin-top: 0.325rem;
 }
 .cont6_cont a{
 	float: left;
@@ -504,7 +504,7 @@
 }
 .cont7{
 	margin: 0.025rem 0;
-	padding: 0.875rem 0.25rem 0 0.25rem;
+	padding: 1.125rem 0.25rem 0 0.25rem;
 	overflow: hidden;
 }
 .cont7_title{
