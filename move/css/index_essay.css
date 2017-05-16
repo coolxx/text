@@ -79,7 +79,8 @@ form img{
 }
 .cont1_d3 div img{
 	margin-top: 0.425rem;
-	width: 3.2rem
+	width: 3.2rem;
+	height: 0.05rem;
 }
 .cont1_d3 p{
 	width: 10.8rem;
