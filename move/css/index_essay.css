@@ -70,6 +70,7 @@ form img{
 	margin-top: 0.75rem
 }
 .cont1_d3 div{
+	width: 3.2rem;
 	height: 100%;
 	float: left;
 }
@@ -78,7 +79,7 @@ form img{
 }
 .cont1_d3 div img{
 	margin-top: 0.425rem;
-	width: 3.6rem
+	width: 3.2rem
 }
 .cont1_d3 p{
 	width: 10.8rem;
